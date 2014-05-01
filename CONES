@@ -1,0 +1,77 @@
+Cones of Dunshire
+=================
+
+and Sub-cones
+
+My current working theory is that the large and medium sized cones
+are the Cones of Dunshire and the smallest sized ones are the
+Sub-cones.  I'm also going on the assumption that there are similar
+numbers of cones in each color except gold, since the staging of the
+game board seems to suggest that.
+
+That implies that the 21 Cones of Dunshire are composed of:
+
+ - 1 gold large
+ - 2 black large
+ - 2 black medium
+ - 2 red large
+ - 2 red medium
+ - 2 yellow large
+ - 2 yellow medium
+ - 2 green large
+ - 2 green medium
+ - 2 blue large
+ - 2 blue medium
+
+And the 15 Sub-cones are:
+
+ - 3 black small
+ - 3 red small
+ - 3 yellow small
+ - 3 green small
+ - 3 blue small.
+
+This also suggests that the colors are not associated with a
+particular player, unless only certain player roles are given cones.
+We can reasonably exclude the Ledgerman.  If we also exclude the
+Arbiter, we need only exclude one more role from coneage, possibly
+the Corporal or the Second Warrior.
+
+These are the positively identified cones:
+
+Black
+-----
+
+2 small
+1 large
+
+Yellow
+------
+
+1 small
+1 medium
+2 large
+
+Red
+---
+
+3 small
+2 medium
+2 large
+
+Blue
+----
+
+1 large
+
+Green
+-----
+
+3 small
+2 medium
+2 large
+
+Gold
+----
+
+1 large
